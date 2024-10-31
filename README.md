@@ -12,13 +12,12 @@
 - ⚡ Fun fact: I was a motion graphics video editor at a time
 
 ### Talk with me:
-<a href="https://www.linkedin.com/in/anik-dey-0ab2a5261/">
+<a href="[linkedin]">
     <img src="https://img.icons8.com/?size=100&id=13930&format=png" alt="LinkedIn" width="40" height="40" />
 </a>
-<a href="https://www.instagram.com/anik_the_supreme/">
+<a href="[instagram]">
     <img src="https://img.icons8.com/?size=100&id=32323&format=png" alt="Instagram" width="40" height="40" />
 </a>
-
 <br />
 
 ### Languages and Tools:
