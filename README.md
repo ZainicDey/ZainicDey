@@ -12,12 +12,8 @@
 - ⚡ Fun fact: I was a motion graphics video editor at a time
 
 ### Talk with me:
-<a href="https://www.linkedin.com/in/your-profile" target="_blank" style="display: inline-block; width: 22px; height: 22px;">
-    <img alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/your-profile" target="_blank" style="display: inline-block; width: 22px; height: 22px;">
-    <img alt="holisitc_developer | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/anik-dey-0ab2a5261/)
+[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg)](https://www.instagram.com/anik_the_supreme/)
 
 <br />
 
