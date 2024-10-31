@@ -12,6 +12,13 @@
 - ⚡ Fun fact: I was a motion graphics video editor at a time
 
 ### Talk with me:
+<style>
+    a {
+        display: inline-block; /* Or use float: left; */
+        margin: 0; /* Remove any default margin */
+        padding: 0; /* Remove any default padding */
+    }
+</style>
 <a href="https://www.linkedin.com/in/anik-dey-0ab2a5261/">
     <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn" width="40" height="40" />
 </a>
