@@ -17,6 +17,8 @@
 </a><a href="https://www.instagram.com/anik_the_supreme/">
     <img src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" alt="Instagram" width="40" height="40" />
 </a>
+[![LinkedIn](https://img.icons8.com/?size=100&id=13930&format=png)](https://www.linkedin.com/in/anik-dey-0ab2a5261/)
+
 
 <br />
 
