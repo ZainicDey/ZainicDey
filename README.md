@@ -13,7 +13,7 @@
 
 ### Talk with me:
 <a href="https://www.linkedin.com/in/anik-dey-0ab2a5261/">
-    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn" width="40" height="40" />
+    <img src="https://img.icons8.com/?size=100&id=13930&format=png" alt="LinkedIn" width="40" height="40"/>
 </a>
 asdfsdf sdaf asd fsdfsd fsdf 
 <a href="https://www.instagram.com/anik_the_supreme/">
