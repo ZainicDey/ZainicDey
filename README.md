@@ -7,7 +7,7 @@
 - 🔭 I’m currently doing my bachelor
 - 🌱 I’m currently learning ML
 - 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Any different views, always ready to get criticized.
+- 💬 Ask me about ... Any different views, always ready to get qeustioned.
 - 😄 You can never offend me with any possible thing in this world
 - ⚡ Fun fact: I was a motion graphics video editor at a time
 
