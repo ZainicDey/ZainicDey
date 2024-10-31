@@ -13,10 +13,9 @@
 
 ### Talk with me:
 <a href="https://www.linkedin.com/in/anik-dey-0ab2a5261/">
-    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn" width="40" height="40" style="vertical-align: middle;" />
-</a>
-<a href="https://www.instagram.com/anik_the_supreme/">
-    <img src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" alt="Instagram" width="40" height="40" style="vertical-align: middle;" />
+    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn" width="40" height="40" />
+</a><a href="https://www.instagram.com/anik_the_supreme/">
+    <img src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" alt="Instagram" width="40" height="40" />
 </a>
 
 <br />
