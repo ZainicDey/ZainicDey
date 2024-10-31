@@ -12,8 +12,8 @@
 - ⚡ Fun fact: I was a motion graphics video editor at a time
 
 ### Talk with me:
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/anik-dey-0ab2a5261/)
-[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg)](https://www.instagram.com/anik_the_supreme/)
+[![LinkedIn](https://fontawesome.com/icons/linkedin?style=brands)](https://www.linkedin.com/in/anik-dey-0ab2a5261/)
+[![Instagram](https://fontawesome.com/icons/instagram?style=brands)](https://www.instagram.com/anik_the_supreme/)
 
 <br />
 
